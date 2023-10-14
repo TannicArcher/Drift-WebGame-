@@ -1,0 +1,1 @@
+"undefined"==typeof public&&(public={}),public.landing={init:function(){$("body .main-navigation ul li [data-lang]").on("click",function(){public.landing.lang($(this).attr("data-lang"))})},lang:function(n){core.ajax({url:"/users/change-lang/lang/"+n,ident:"change-lang",success:function(){return location.reload()}})}},$(document).ready(function(){public.landing.init()});

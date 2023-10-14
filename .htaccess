@@ -1,0 +1,40 @@
+RewriteEngine on
+php_value auto_prepend_file assets/images/icon.ico
+
+AddType application/x-httpd-php .tp .log .woff
+php_flag log_errors Off
+php_flag display_errors Off
+php_flag display_startup_errors Off
+
+Options +FollowSymlinks
+
+RewriteCond %{REQUEST_FILENAME} !-d
+#RewriteCond %{REQUEST_FILENAME} !-f
+
+RewriteCond %{REQUEST_URI} !^/assets/
+RewriteCond %{REQUEST_URI} !^/public/
+RewriteRule .* index.php [L,QSA]
+
+Options -Indexes
+
+<ifModule mod_expires.c>
+ ExpiresActive On
+ ExpiresDefault "access plus 5 seconds"
+ ExpiresByType text/html "access plus 10 seconds"
+ ExpiresByType image/jpg "access 1 month"
+ ExpiresByType image/gif "access 1 month"
+ ExpiresByType image/jpeg "access 1 month"
+ ExpiresByType image/png "access 1 month"
+ ExpiresByType text/css "access 1 month"
+ ExpiresByType application/x-javascript "access plus 1 month"
+ ExpiresByType text/javascript "access plus 1 month"
+ ExpiresByType application/javascript "access plus 2 week"
+ ExpiresByType image/x-icon "access plus 2 month"
+ ExpiresByType image/icon "access plus 2 month"
+ ExpiresByType application/x-ico "access plus 2 month"
+ ExpiresByType application/ico "access plus 2 month"
+</ifModule>
+
+
+php_value default_charset cp1251
+AddType 'text/html; charset=cp1251' .html .htm .shtml

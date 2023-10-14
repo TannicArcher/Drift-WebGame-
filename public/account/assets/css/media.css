@@ -1,0 +1,549 @@
+@media (min-width: 992px) and (max-width: 1500px) {
+  .dt-side-nav__header{font-size: 12px;padding: 9px 10px 9px 20px;}
+  .dt-side-nav__link{font-size:15px;padding: 8px 10px 8px 30px;letter-spacing: 0px;}
+  .dt-side-nav__sub-menu .dt-side-nav__link{padding-left: 40px;}
+} 
+@media (min-width: 1500px) and (max-width: 1599px){
+  .leader-new-img{width: 90px;height: 90px;margin-top: 5px;}
+  .index-second-block{padding: 2.5rem 3rem !important;}
+  .index-balance-body{padding: 2.2rem 2rem;}
+  .account-new-icon{font-size: 3.5rem;}
+  .index-balance-link .badge{font-weight: 400;text-shadow: 1px 1px #00000036;font-size: 9px;}
+  .taxi-about-stat-box{padding: 21px 2rem;}
+  .about-last-p{font-size: 12px;}
+  .surfing-order{font-size: 1.4rem;}
+  .tasks-item-box .card-body{padding: 2.2rem;}
+  .currency-list .cur-block img{height:23px;}
+  .exchange-card .ex-info .ex-info-img{max-width: 40px;margin-top: 5px;}
+  .exchange-card .dt-card__body{padding: 1.5rem 1.5em !important;}
+  .profile-list .dt-list-xxl>.dt-list__item{max-width: 105px;}
+  .profile-list-img{max-width: 105px;}
+  .refbackinc .deposit-bonus .card-body{padding: 3.2rem 2.2rem;}
+}
+@media (min-width: 1400px) and (max-width: 1499px){
+  .taxi-about-stat-box{padding: 22px 2rem !important;}
+  .refbackinc .deposit-bonus .card-body{padding: 3.2rem 2.2rem;}
+}
+
+@media (min-width: 1300px) and (max-width: 1499px){
+  .col-taxi-1{-ms-flex: 0 0 25%;flex: 0 0 25%;max-width: 25%;}
+  .col-taxi-2{-ms-flex: 0 0 75%;flex: 0 0 75%;max-width: 75%;}
+  .game-about-title{margin-bottom:20px;}
+  .game-balance{font-size: 1.9rem;}
+  .game-bonus{display:block;margin-top:7px;}
+  .game-balance-box{display:block;margin-top:7px;padding: 4.75rem 2.2rem;}
+  .game-balance-box .dt-card__title{font-size: 15px;}
+  .game-balance-box .icon-revenue{margin-top: -1px;font-size: 1.7rem;}
+  .game-img{max-width:90%;}
+  .game-about{line-height: 25px;font-size: 15px;letter-spacing: 0.5px;}
+  .about-last-p{font-size:13px;font-weight: 500;}
+  .info-box{font-weight: 400;letter-spacing: 0.7px;}
+  .taxi-speed{font-size:12px;}
+  .taxi-about-stat-box{padding:15px 2rem;margin-top:0px;}
+  .taxi-itemcard .media .media-body h4{font-size: 17px;margin-top:-5px;}
+  .col-taxi-2 .taxi-about-card-body{padding: 3.1rem 5.2rem;padding-bottom: 2.5rem;}
+  .levels-balance-sum{font-size: 3rem;}
+  .levels-img-col{-ms-flex: 0 0 16.6666666667%;flex: 0 0 16.6666666667%;max-width: 16.6666666667%;}
+  .levels-text-col{-ms-flex: 0 0 83.3333333333%;flex: 0 0 83.3333333333%;max-width: 83.3333333333%;}
+  .levels-img{max-width:100%;}
+  .leader-refs thead th:nth-child(2){display:none;}
+  .leader-refs tbody td:nth-child(2){display:none;}
+  .surfing-buy-box{padding: 3.2rem 2.2rem;height: 203px;}
+  .surfing-buy-box .dt-card__heading{font-size: 14px;}
+  .currency-list .cur-block{height: 80px;line-height: 80px;}
+  .currency-list .cur-block img{max-width: 90px;max-height: 28px;}
+  .media-pays-list .col-xl-3{-ms-flex: 0 0 33.3333333333%;flex: 0 0 33.3333333333%;max-width: 33.3333333333%;}
+  .currency-list .payout-block img{max-width: 130px;max-height: 35px;}
+  .currency-list .payout-block{height: 130px;line-height: 95px;}
+  .tasks-item-box .card-body{padding: 2rem;}
+  .tasks-item-box .card-title{font-size: 1.8rem;}
+  .lottery-2-card .card{height:203px;}
+  .lottery-2-card .card-body{padding: 1.2rem;}
+  .exchange-card .dt-card__body{padding: 1.2rem 1.2em !important;}
+  .exchange-card .ex-info .media-body .line{font-size:12px;}
+  .exchange-card .ex-info{padding: 15px 15px;}
+  .exchange-card .ex-info .ex-info-img{max-width: 40px;margin-top: 5px;}
+  .exchange-card .card-title{font-size:14px;}
+  .partner-card .dt-card__body{padding: 2.5rem 1.5em;}
+  .partner-stat-sum{font-size:1.5rem;}
+  .profile-list-img{max-width: 135px;}
+  .profile-list .dt-list-xxl>.dt-list__item{max-width: 50%;}
+  .profit-calc-result-box div:nth-child(1){display:none;}
+  .index-balance-body{padding: 2.4rem 1.2rem;}
+  .index-balance-body .icon-4x{font-size: 3.5rem;}
+  .index-second-block{padding: 2.3rem 2.8rem !important;}
+  .dt-content{padding: 3.5rem 3.2rem;}
+  .top-menu a{margin-right:0;font-size: 11px;}
+  .menu-balance2{margin-right: 20px;padding: 8px 12px;}
+  .setting-info{padding: 8px 10px;}
+  .help-left .game-about{line-height: 24px;font-size: 15px;}
+  .help-left .dt-card__body.partner-card-2{padding: 3rem 3rem;}
+  .help-left .help-text{font-size: 14.5px;}
+  .help-left .game-about.about-last-p{line-height: 21px;font-size: 13px;}
+  .help-videoblock .video{width:100%;height:185px;}
+  .chat-frame{width:100%;height:550px;}
+  .levels-card .dt-card__body{padding: 2.2rem 1.5rem;}
+  .dt-nav-wrapper .dt-nav__item{padding: 0 5px;}
+  .tcd-tabs-style2 .nav-tabs li{font-size:11px;}
+  .leader-new-img {width: 75px;height: 75px;margin-top: 15px;}
+  .surfing-about-box{padding: 3.2rem 4rem;}
+  .surfing-buy-box{height:219px;}
+  .table-color th{font-size:11px;}
+  .setting-card .dt-card__body{padding: 2rem 0rem;}
+  .setting-name .form-control{font-size: 12px;}
+  .setting-card .setting-header .card-title{font-size: 12px;}
+  .levels-new-left{-ms-flex: 0 0 33.3333333333%;flex: 0 0 33.3333333333%;max-width: 33.3333333333%;}
+  .levels-new-right{-ms-flex: 0 0 66.6666666667%;flex: 0 0 66.6666666667%;max-width: 66.6666666667%;}
+  .levels-new-block{-ms-flex: 0 0 50%;flex: 0 0 50%;max-width: 50%;}
+  .surfing-order{font-size: 1.4rem;}
+  .helpcenter-new-head{padding: 3.2rem 4.2rem;}
+  .alert-danger{font-size:13px;}
+  .profile-list .dt-list-xxl>.dt-list__item{max-width: 95px;}
+  .profile-list-img{max-width: 95px;}
+  .deposit-new-img{width:80px;height:80px;}
+  .refbackinc .deposit-bonus .card-body{padding: 3.2rem 2.2rem;}
+  .refbackinc .deposit-bonus .about{font-size:10px;}
+  .refbackinc .deposit-bonus .title{font-size:15px;}
+}
+
+@media (min-width: 1200px) and (max-width: 1299px){
+  .game-about{line-height: 25px;font-size: 14px;letter-spacing: 0.7px;}
+  .taxi-about-card-body{padding: 3.2rem 4.2rem;}
+  .about-last-p i{display:none;}
+  .about-last-p{font-size:12px;font-weight: 500;}
+  .game-balance{font-size: 25px;}
+  .game-balance-box .game-img{max-width:55%;}
+  .col-taxi-2 .taxi-about-card-body{height:334px;}
+  .game-balance-box{height: 327px;}
+  .info-box{font-weight: 400;letter-spacing: 0.7px;}
+  .game-balance-box{display:block;margin-top:7px;padding: 2.8rem 2.2rem;}
+  .taxi-about-stat-box{display:none;}
+  .taxi-itemcard .card-body{padding: 2.2rem;}
+  .taxi-itemcard .media .media-body h4{font-size: 17px;margin-top:-5px;}
+  .levels-limit{font-size:16px;}
+  .leader-refs thead th:nth-child(2){display:none;}
+  .leader-refs tbody td:nth-child(2){display:none;}
+  .leader-about-box{padding: 2.8rem 2.8rem;}
+  .surfing-about-box{padding: 3.2rem 4.2rem;}
+  .surfing-about-box .page-about{font-size:14px;}
+  .surfing-buy-box{padding: 4.55rem 2.2rem;}
+  .currency-list .cur-block img{max-width: 90px;max-height: 28px;}
+  .currency-list .cur-block{height: 90px;line-height: 90px;}
+  .media-deposit-list .col-xl-2{-ms-flex: 0 0 25%;flex: 0 0 25%;max-width: 25%;}
+  .media-pays-list .col-xl-3{-ms-flex: 0 0 33.3333333333%;flex: 0 0 33.3333333333%;max-width: 33.3333333333%;}
+  .currency-list .payout-block img{max-width: 130px;max-height: 35px;}
+  .currency-list .payout-block{height: 130px;line-height: 95px;}
+  .tasks-item-box .card-body{padding: 1.2rem;}
+  .tasks-item-box .card-title{font-size: 1.8rem;}
+  .lottery-1-card .card-body{padding: 2.2rem;}
+  .lottery-2-card .card-body{padding: 1.2rem;}
+  .lottery-2-card .card{height:188px;}
+  .bonus-stat .taxi-about-stat-box{display:block !important;}
+  .exchange-card .dt-card__body{padding: 1.2rem 1.2em !important;}
+  .exchange-card .ex-info .media-body .line{font-size:12px;}
+  .exchange-card .ex-info .ex-info-img{display:none;}
+  .exchange-card .ex-info .media-body .line{margin-left:0 !important;}
+  .exchange-card .card-title{font-size:13px;}
+  .partner-card .dt-card__body{padding: 2.5rem 1.5em;}
+  .partner-stat-sum{font-size:1.5rem;}
+  .partner-stat-box.taxi-about-stat-box{padding: 14px 1.5rem;display:block;}
+  .partner-card-2{padding: 2.6rem 2.2rem;}
+  .profile-list-img{max-width: 120px;}
+  .profile-list .dt-list-xxl>.dt-list__item{max-width: 50%;}
+  .profit-calc-result-box div:nth-child(1){display:none;}
+  .index-balance-body{padding: 2.4rem 1rem;}
+  .index-balance-body .icon-4x{font-size: 3.5rem;}
+  .index-second-block{padding: 2.3rem 2rem !important;}
+  .dt-content{padding: 2.5rem 2.2rem;}
+  .menu-user-box .dt-avatar{width: 40px !important;height: 40px !important;}
+  .menu-user-box .user-id:last-child{display:none;}
+  .menu-user-box .user-id{margin-bottom:0;}
+  .top-menu a{margin-right:0;}
+  .menu-balance2{margin-right: 20px;padding: 8px 12px;}
+  .setting-info{padding: 8px 10px;}
+  .setting-card .dt-card__body{padding: 2rem 2rem;}
+  .setting-card .setting-header{padding: 1.1rem 1.2rem;}
+  .help-left .dt-card__body.partner-card-2{padding: 3.2rem 3.2rem;}
+  .help-videoblock .video{width:100%;height:185px;}
+  .chat-frame{width:100%;height:500px;}
+  .leader-nav .nav-link{font-size:13px;}
+  .leader-tab-info{font-size:15px;}
+  .surfing-buy-box .btn{font-size:10px;}
+  .surfing-order{line-height: 21px;font-size: 13px;}
+  .dt-nav-wrapper .dt-nav__item{padding: 0 5px;}
+  .top-menu a{padding: 0 10px;}
+  .top-menu{max-width: 525px;}
+  .tcd-tabs-style2 .nav-tabs li{font-size:11px;}
+  .leader-new-img {width: 75px;height: 75px;margin-top: 15px;}
+  .table-color th{font-size:11px;}
+  .setting-card .dt-card__body{padding: 2rem 0rem;}
+  .index-car-list img{max-width: 85px;}
+  .taxi-list-name{font-size:12px;}
+  .index-car-list .dt-list__item{max-width: 90px;}
+  .levels-new-left{-ms-flex: 0 0 33.3333333333%;flex: 0 0 33.3333333333%;max-width: 33.3333333333%;}
+  .levels-new-right{-ms-flex: 0 0 66.6666666667%;flex: 0 0 66.6666666667%;max-width: 66.6666666667%;}
+  .levels-new-block{-ms-flex: 0 0 50%;flex: 0 0 50%;max-width: 50%;}
+  .bonus-new-stat{padding: 20px 2rem;}
+  .dt-icon-bg-big{font-size: 3rem;margin-top: 5px;}
+  .dt-icon-bg-big:after{width: 3rem;height: 3rem;}
+  .table-color th:first-child{padding-left: 1.3rem !important;}
+  .table-color th:last-child{padding-right: 1.3rem !important;}
+  .table-color tr td:first-child{padding-left: 1.3rem !important;}
+  .table-color tr td:last-child{padding-right: 1.3rem !important;}
+  .alert-danger{font-size:13px;}
+  .profile-list .dt-list-xxl>.dt-list__item{max-width: 90px;}
+  .profile-list-img{max-width: 90px;}
+  .leader-time{display:block !important;}
+  .top-time{display:none;}
+  .deposit-new-img{width:110px;height:110px;}
+  .refbackinc .deposit-bonus .card-body{padding: 3.2rem 2.2rem;}
+  .refbackinc .deposit-bonus .about{font-size:10px;}
+  .refbackinc .deposit-bonus .title{font-size:15px;}
+  .refbackinc .deposit-leader-card .card{height: 200px;}
+  .refbackinc .deposit-bonus{height: 200px;}
+  .refbackinc .deposit-leader-card .card .deposit-new-img{width: 100px;height: 140px;}
+}
+
+@media (min-width: 992px) and (max-width: 1199px){
+  .game-about{line-height: 25px;font-size: 15px;letter-spacing: 0.7px;}
+  .about-last-p{font-size:13px;font-weight: 500;}
+  .info-box{font-weight: 400;letter-spacing: 0.7px;}
+  .game-balance-box{display:block;margin-top:7px;padding: 3.2rem 2.2rem;}
+  .taxi-about-stat-box{margin-bottom: 15px;}
+  .taxi-itemcard .media .media-body h4{font-size: 17px;margin-top:-5px;}
+  .menu-user-box .dt-avatar{width: 40px !important;height: 40px !important;}
+  .menu-user-box .user-id:last-child{display:none;}
+  .menu-user-box .user-id{margin-bottom:0;}
+  .profit-calc-desc{font-size: 10px;}
+  .levels-limit{font-size:16px;}
+  .levels-balance-sum{font-size: 2.6rem;}
+  .levels-balance-desc{font-size: 13px;}
+  .levels-info-col .h4{font-size: 1.3rem;}
+  .levels-profit{font-size:12px;}
+  .leader-daily-info{height: 270px;}
+  .ad-banner-box .ban-info .clicks{display:block;margin-left: 0;margin-top: 9px;}
+  .ad-ban-add-box{padding: 2.2rem;}
+  .ad-surf-about-box{padding: 1.8rem 2.2rem;}
+  .ad-surf-buy-box{height: 136px;}
+  .tasks-item-box .card-title{font-size: 1.8rem;}
+  .lottery-3-card .card{height:208px;}
+  .lottery-img{display:none;}
+  .bonus-stat .dt-icon-bg-big{display:none;}
+  .exchange-card .ex-info .media-body .line{font-size:12px;}
+  .exchange-card .ex-info .ex-info-img{max-width: 40px;margin-top: 5px;}
+  .history-card .second-header .nav-item{line-height: 29px;width: 20%;text-align: center;}
+  .profile-list-img{max-width: 120px;}
+  .profile-list .dt-list-xxl>.dt-list__item{max-width: 50%;}
+  .stat-chart-body{padding: 0.7rem;padding-top: 2rem;}
+  .profit-calc-result-box div:nth-child(1),.profit-calc-result-box div:nth-child(2),.profit-calc-result-box div:nth-child(3){display:none;}
+  .top-menu{max-width: 500px !important;}
+  .top-menu a{margin-right:0;padding: 0 12px;font-size: 11px;}
+  .setting-info{padding: 8px 10px;}
+  .setting-card .dt-card__body{padding: 2rem 0rem;}
+  .setting-card .setting-header{padding: 1.1rem 1.2rem;}
+  .help-videoblock .video{width:100%;height:250px;}
+  .leader-nav .nav-link{font-size:13px;}
+  .leader-tab-info{font-size:15px;}
+  .currency-list .cur-block img{max-width: 90px;max-height: 28px;}
+  .top-time, .top-mails{display:none;}
+  .leader-new-img {width: 95px;height: 95px;margin-top: 15px;}
+  .tcd-tabs-style2 .nav-tabs li:last-child{margin-bottom: 2rem !important;}
+  .setting-card .dt-card__body{padding: 2rem 0rem;}
+  .index-car-list img{max-width: 85px;}
+  .taxi-list-name{font-size:12px;}
+  .index-car-list .dt-list__item{max-width: 90px;}
+  .levels-new-left{-ms-flex: 0 0 50%;flex: 0 0 50%;max-width: 50%;}
+  .levels-new-right{-ms-flex: 0 0 50%;flex: 0 0 50%;max-width: 50%;}
+  .levels-new-block{-ms-flex: 0 0 100%;flex: 0 0 100%;max-width: 100%;}
+  .bonus-stat .taxi-about-stat-box{display:none;}
+  .stat-new-ref{display:none;}
+  .help-videoblock{width: 49%;display: inline-block;}
+  .help-videoblock .video{height:190px;}
+  .profile-banner-right{width: 360px;}
+  .deposit-new-img{width: 145px;height: 145px;}
+  .bonus-col{-ms-flex: 0 0 100%;flex: 0 0 100%;max-width: 100%;}
+  .refbackinc .deposit-bonus{height:auto;margin-bottom: 20px;}
+  .refbackinc .deposit-leader-card{display:none;}
+}
+
+@media (min-width: 768px) and (max-width: 991px){
+  .levels-limit{font-size:16px;}
+  .levels-balance-sum{font-size: 2.6rem;}
+  .levels-balance-desc{font-size: 13px;}
+  .levels-info-col .h4{font-size: 1.3rem;}
+  .levels-profit{font-size:12px;}
+  .leader-daily-info{height: 270px;}
+  .lottery-img{display:none;}
+  .lottery-3-card .card{height:208px;}
+  .bonus-stat .taxi-about-stat-box{display:none !important;}
+  .exchange-card .ex-info .media-body .line{font-size:12px;}
+  .exchange-card .ex-info .ex-info-img{max-width: 40px;margin-top: 5px;}
+  .history-card .second-header .nav-item{line-height: 29px;width: 20%;text-align: center;}
+  .profit-calc-result-box div:nth-child(1),.profit-calc-result-box div:nth-child(2){display:none;}
+  .setting-info{padding: 10px 15px;}
+  .setting-card .dt-card__body{padding: 2rem 0rem;}
+  .setting-card .setting-header{padding: 1.1rem 1.2rem;}
+  .help-videoblock .video{width:100%;height:250px;}
+  .dt-nav__item{padding: 0 15px;}
+  .levels-new-left{-ms-flex: 0 0 50%;flex: 0 0 50%;max-width: 50%;}
+  .levels-new-right{-ms-flex: 0 0 50%;flex: 0 0 50%;max-width: 50%;}
+  .levels-new-block{-ms-flex: 0 0 100%;flex: 0 0 100%;max-width: 100%;}
+  .stat-new-ref{display:none;}
+  .profile-banner-right{width: 360px;}
+}
+@media (min-width: 576px) and (max-width: 767px){
+  .leader-daily-info{height: 270px;}
+  .currency-list .cur-block img{max-width: 80px;max-height: 25px;}
+  .currency-list .cur-block{height: 90px;line-height: 90px;}
+  .partner-stat-box.taxi-about-stat-box{padding: 14px 1.5rem;display:block;}
+  .partner-stat-box.taxi-about-stat-box .media-body{margin-left: -5px;}
+  .profit-calc-result-box div:nth-child(1),.profit-calc-result-box div:nth-child(2),.profit-calc-result-box div:nth-child(3){display:none;}
+  .levels-new-left{-ms-flex: 0 0 50%;flex: 0 0 50%;max-width: 50%;}
+  .levels-new-right{-ms-flex: 0 0 50%;flex: 0 0 50%;max-width: 50%;}
+  .levels-new-block{-ms-flex: 0 0 100%;flex: 0 0 100%;max-width: 100%;}
+  .stat-new-ref{display:none;}
+}
+
+@media (max-width: 1500px) {
+  .game-buy-1 .btn{width:100%;}
+  .game-buy-1, .game-buy-2{-ms-flex: 0 0 100%;flex: 0 0 100%;max-width: 100%;}
+  .taxi-count{font-weight: 300;padding-right: 0px;letter-spacing: 0.5px;font-family: 'Oswald', sans-serif;font-size: 14px;text-align: center;margin-top:10px;}
+  .taxi-itemcard .card-body{padding:2.5rem;}
+  .profile__banner{margin: -4.4rem -3.2rem -5.4rem;padding: 4.4rem 3.2rem 4rem;}
+  .profile-new-banner{margin: -4.4rem -3.2rem -2.8rem !important;padding: 4.4rem 3.2rem 6rem !important;}
+}
+
+@media (max-width: 1299px) {
+  .ban-box .s-468 a:nth-child(2){display:none;}
+  .setting-name .form-control{font-size: 12px;}
+  .setting-card .setting-header .card-title{font-size: 11px;}
+  .profile__banner{margin: -4.4rem -2.2rem -5.4rem;}
+}
+
+@media (min-width: 1500px) {
+  .help-left{-ms-flex: 0 0 58.3333333333%;flex: 0 0 58.3333333333%;max-width: 58.3333333333%;}
+  .help-right{-ms-flex: 0 0 41.6666666667%;flex: 0 0 41.6666666667%;max-width: 41.6666666667%;}
+  .chat-media{margin-left: 16.6666666667%;-ms-flex: 0 0 66.6666666667%;flex: 0 0 66.6666666667%;max-width: 66.6666666667%;}
+}
+
+@media (max-width: 1199px) {
+  .zone-mobile{border-bottom: 1px solid #ededed;}
+  .table-responsive>.table>thead>tr>th,.table-responsive>.table>tbody>tr>th,.table-responsive>.table>tfoot>tr>th,.table-responsive>.table>thead>tr>td,.table-responsive>.table>tbody>tr>td,.table-responsive>.table>tfoot>tr>td{white-space: nowrap}
+  .display-none-lg{display:none !important;}
+  .ad-surf-box{display:block !important;}
+  .ad-surf-actions{height: 47px;margin-bottom: 15px;margin-right: 0;text-align: center;}
+  .ad-surf-actions a span{display: inline-block !important;}
+  .surfing-box .ad-surf-desc{margin-top:15px;}
+  .surfing-box .ad-surf-desc div{font-size: 15px;line-height: 25px;margin-right:0 !important;margin-left:0 !important;display:block !important;}
+  .ad-surf-info{text-align: center;margin-top:20px;width:100%;}
+  .ad-add-card .col-form-label{padding-bottom:5px;}
+  .tasks-xl-none{display:none;}
+  .profile-avatar{width: 60px !important;height: 60px !important;}
+  .profile-search{width:auto !important;}
+  .index-email-card .right{display:block;}
+  .index-email-card .right .btn{position:relative;right:auto;margin-top:15px;}
+  .index-email-card .left{width:100%;}
+  .chat-frame{width:100%;height:500px;}
+  .surfing-buy-box{display: none !important;}
+  .tcd-tabs-style2 .nav-tabs li{width: 31%;margin: 0 15px 10px 0;}
+  .tcd-tabs-style2 .nav-tabs li:after{display:none;}
+}
+
+@media (max-width: 991px) {
+  .dt-content{padding: 2.4rem 2.2rem;}
+  .taxi-about-stat-box{padding: 20px 1.5rem;margin-bottom:15px;}
+  .taxi-about-card-body{padding: 3.2rem 4.2rem;}
+  .profit-calc-label .about-label{display: block;text-align: center;}
+  .profit-calc-label{line-height: 35px;}
+  .ad-s-1{margin-bottom: 20px;}
+  .ad-s-2{box-shadow: none;height: auto;}
+  .ad-s-2 .ad-surf-buy-box{height: auto;padding: 0;}
+  .ad-s-2 .ad-surf-buy-box .btn{height: 50px;line-height: 32px;font-size: 16px;}
+  .ad-add-card .end-price{padding-top: 11px;font-size: 14px;}
+  .task-modal-card-body{padding: 3rem 3rem !important;}
+  .profit-calc-page .profit-calc-body{padding:0;}
+  .leaders-new-stat{margin-bottom:0;}
+  .modal-title{font-size: 2.8rem;}
+  .menu-reserve{margin-right: -2rem;}
+  .menu-user-box{margin-right: -2rem;}
+  .deposit-leader-card{display:none;}
+  .refbackinc .deposit-bonus{height:auto;margin-bottom: 20px;}
+  .dt-topbar{display:none;}
+}
+
+@media (max-width: 767px) {
+  .surfing-box{display:block !important;}
+  .surfing-box .surf-info{font-size: 14px;line-height: 22px;}
+  .surfing-box .surf-actions .btn-light{margin-top:15px;width:100%;font-size:15px;color: #383636;}
+  .surfing-box .surf-info div{margin-right:0 !important;margin-left:0 !important;display:block !important;}
+  .lottery-2-card{display:none;}
+  .partner-link-card .col-md-6:last-child .partner-label{margin-top:15px;}
+  .partner-hr{display:none;}
+  .profile-banner-right{margin-top:30px;width: auto;}
+  .profile-banner-right .search-box{max-width: 100%;}
+  .profile-search{width:auto !important;}
+  .compose-btn{margin-top:5px;}
+  .swal2-popup.swal2-toast.swal2-show{width: 100% !important;margin: 15px 15px 0px 15px !important;}
+  body.swal2-toast-shown .swal2-container.swal2-top-end{width: 100% !important;}
+  .swal2-popup.swal2-toast .swal2-title{font-size:1.7rem;}
+  .partner-pmedia{margin-top:20px;}
+  .partner-sc1 .partner-label{margin-top: 20px;border-top: 1px solid #f0f0f0;padding-top: 20px;}
+  .partner-sc1 .col-md-6:first-child .partner-label{margin-top:0;padding-top:0;border-top:0;}
+  .partner-sc1 .col-md-6:last-child .partner-label{margin-top:20px !important;}
+  .server-time{display:none !important;}
+  .dt-nav__item{padding: 0 15px;}
+  .dt-header__toolbar .dt-nav__link>i {font-size: 2.8rem;}
+  .help-videoblock .video-leader{height:200px;}
+}
+
+@media (max-width: 680px) {
+  .taxi-itemcard .card-body{padding: 2.2rem;}
+  .taxi-itemcard .card-title{font-size: 18px;}
+  .items-bar{margin-bottom: 25px;}
+  .leader-card-header .nav-item{margin-top: 5px;width: 100%;}
+  .leader-card-header .nav-item .nav-link{font-size: 13px;font-weight: 700 !important;padding: 1.1rem 1.6rem;}
+  .tcd-tabs-style2 .nav-tabs li{width:47%;}
+  .reserve-company{display:none;}
+}
+
+@media (max-width: 650px) {
+  .taxi-itemcard .card-body{padding: 2.2rem;}
+  .taxi-itemcard .card-title{font-size: 18px;}
+  .items-bar{margin-bottom: 25px;}
+  .ban-box .s-100 a:nth-child(+n+5){display:none;}
+  .promo-box .promo-block{width:100%;}
+  .leader-new-img{display:none;}
+}
+
+
+@media (max-width: 575px) {
+  .display-none-sm{display:none !important;}
+  .page-about{font-size: 13px;font-weight: 500;color: #404040;letter-spacing: 0.2px;line-height: 17px;text-align: justify;}
+  .game-about{font-size: 13px;font-weight: 400;letter-spacing: 0.3px;line-height: 20px;text-align: justify;}
+  .gray-p{font-size: 13px;font-weight: 500;color: #4a4a4a;letter-spacing: 0.2px;line-height: 17px;text-align: justify;}
+  .info-box{font-weight: 500;line-height: 19px;font-size: 11px;letter-spacing: 0.3px;text-align: justify;}
+  .info-box i{margin-top: 5px;}
+  .leader-about-box{padding: 3.2rem 2.2rem;}
+  .levels-about-box{padding: 3.2rem 2.2rem;}
+  .about-last-p{font-weight: 500;}
+  .taxi-info-sum{font-size: 2rem;font-weight: 500;}
+  .modal-title{font-size: 2.3rem;}
+  .currency-list .cur-block img{max-width: 75px;max-height: 23px;}
+  .currency-list .cur-block{height: 67px;line-height: 67px;}
+  .currency-list .cur-box{margin-top:5px;}
+  .currency-list .cur-box:nth-child(1){margin-top:15px;}
+  .currency-list .cur-box:nth-child(2){margin-top:15px;}
+  .tasks-price{font-size:11px;}
+  .task-modal-forums .btn{width: 47%;margin-bottom: 7px;font-size: 14px;}
+  .task-modal-report textarea{font-size:12px;}
+  .task-modal-forums .list-title{font-size:1.8rem;}
+  .table-color{padding-bottom:5px;}
+  ul.faq-list li>div .q{padding: 17px 17px 17px 47px;}
+  ul.faq-list li>div .q b{font-size:13px;}
+  ul.faq-list li>div .q i.fal{font-size:19px;top:17px;left: 14px;}
+  ul.faq-list li>div .q abbr{display:none;}
+  ul.faq-list li>span.round{display:none;}
+  ul.faq-list li{padding: 0px 0 10px 0px;}
+  ul.faq-list{padding:0;}
+  .popover-header{font-size: 1.7rem;}
+  .popover-body{line-height: 2.1rem;font-size: 1.7rem;color: #000;}
+  .popover-body b{font-size: 1.4rem;}
+  .promo-box .promo-block .input-group-append{display:none;}
+  .tabs-vertical .nav-tabs>li .nav-link{padding: 1rem 2.3rem;font-size: 13px;}
+  .profile-header{padding: 1.7rem 3.2rem 1rem;}
+  .add-comment-box .action-tools{top:-3px;}
+  .profit-calc-result-box{display:block;width:100%;}
+  .profit-calc-result-box div{width: 49%;display: inline-block;margin-bottom: 15px;text-align: center;margin-right: 0;padding-right: 0;}
+  .profit-calc-result-box div:nth-child(odd){border-right:0;}
+  .profit-calc-result-box div:nth-child(1){display:none;}
+  .dt-card-performance .dt-card__body{padding-top: 10rem;}
+  .help-links2 a{width:100%;border-radius: 1px;font-size:13px;}
+  .help-links2 a:nth-child(even){float:none;}
+  .help-text{font-size: 13px;line-height: 21px;letter-spacing: 0.3px;}
+  .taxi-itemcard .card-body{text-align: center;}
+  .taxi-itemcard .card-body .media{text-align: left;}
+  .exchange-card .dt-card__body{padding: 3.5rem 5rem !important;}
+  .modal-header{padding: 4rem 2.6rem;padding-bottom: 0rem;}
+  .close{font-size: 6.1rem;}
+  .modal-header .close{padding-bottom: 0;margin-top: -30px;margin-right: -7px;}
+  .car-header{display:none;}
+}
+
+@media (max-width: 500px) {
+  .ban-box .s-100 a:nth-child(+n+4){display:none;}
+  .deposit-currency{text-align:center;display: block !important;}
+  .deposit-currency .nav-item{width: 100%;display: block;width: 50%;}
+  .deposit-currency .title{margin-bottom: 20px;padding-bottom: 19px;border-bottom: 1px solid #eaeaea;font-size: 13px;font-weight: 900;}
+  .deposit-currency .card-header-pills{margin-left:0 !important;}
+  .deposit-currency .nav-item .nav-link{padding: 1.1rem 1.6rem;font-size:14px;}
+  .history-card .second-header .nav-item{line-height: 23px;width: 100%;text-align: center;}
+  .chat-last{display:none;}
+  #rad_player{height:48px !important;}
+  .tcd-tabs-style2 .nav-tabs li{width:100%;margin: 0 13px 10px 0;padding: 10px 14px;font-size:11px;}
+  .profile-info .link-site{font-size: 14px;}
+  .profile-info .ml-auto{font-size: 14px;}
+  .index-info-card .sum{font-size: 1.8rem;}
+  .index-balance-body .sum{color: #212121!important;font-size: 1.8rem;font-weight: 500;}
+  .taxi-list-img{max-width: 130px;}
+  .taxi-new-list-card .dt-list-xxl>.dt-list__item{padding-left: 15px;padding-right: 15px;max-width: 130px;}
+  .leader-new-info-sum{font-size:14px;}
+  .stat-title{font-size: 1.4rem;}
+  .reserve-chart-title{font-size:13px;}
+  .new-accordion{font-size:12px;}
+  .new-accordion i{font-size:12px;}
+}
+
+@media (max-width: 450px) {
+  .ad-banner-box .card-footer{display:block !important;}
+  .ad-banner-box .ban-info{width: 275px;margin: 0 auto;line-height: 25px;}
+  .ad-banner-box .ban-info .status{display: block;}
+  .ad-banner-box .ban-info .status span{float:right;}
+  .ad-banner-box .ban-info .clicks{margin-left: 0;display:block;}
+  .ad-banner-box .ban-info .clicks span{float:right;}
+  .ad-banner-box .ban-balance{width: 275px;margin: 0 auto;text-align: left;line-height: 25px;}
+  .ad-banner-box .ban-balance a{float:right;}
+  .ad-banner-box .ban-info i{display:none;}
+  .ad-s-footer{display:block !important;}
+  .ad-s-footer .w-100 .btn{width:100%;font-size: 14px;}
+  .ad-s-footer .end-price{width:100%;text-align: center;}
+  .partner-badge{white-space: normal;line-height: 1.5;}
+  .partner-pays{padding:0;font-size: 13px;}
+  .partner-pays i{display:none;}
+  .partner-pays .badge{font-size: 13px;}
+  .promo-ban-list .card-header-pills{display: block;width: 100%;float: right;}
+  .deposit-sum{font-size:13px;}
+  .new-accordion i{display:none;}
+  .new-accordion span{margin-left:0;}
+  .new-accordion{padding: 12px 22px;font-size: 12px;}
+  .reserve-chart-title{font-size:12px;}
+}
+
+@media (max-width: 400px) {
+  .about-video{font-size:12px;}
+  .levels-balance-sum{font-size: 2.6rem;margin-top: 5px;}
+  .levels-balance{font-size: 2.2rem !important;}
+  .levels-balance .icon-revenue{font-size: 2.9rem;margin-top: 5px;}
+  .ban-box .s-100 a:nth-child(+n+3){display:none;}
+  .task-modal-forums .btn{font-size:12px;}
+  .exchange-card .ex-info .ex-info-img{max-width: 36px;margin-top: 7px;}
+  .exchange-card .ex-info .media-body .line{font-size:12px;}
+  .profile-list-img{max-width: 130px;}
+  .profile-list .dt-list-xxl>.dt-list__item{max-width: 50%;}
+  .stat-chart-body{padding: 0.7rem;padding-top: 2rem;padding-bottom:0;}
+  .stat-header .card-title{font-size:11px;}
+  .profit-calc-result-box h3{font-size: 14px;}
+  .profit-calc-result-box label{font-size:9px;}
+  .setting-info{padding: 10px 15px;}
+  .setting-card .dt-card__body{padding: 2rem 0rem;}
+  .setting-card .setting-header{padding: 1.1rem 1.2rem;}
+  .index-email-text{font-size: 13px;line-height: 22px;color: #212121;}
+  .promo-size{display:none;}
+  .profile-icon{height: 28px;width: 28px;}
+  .new-accordion{padding: 12px 22px;font-size: 11px;}
+}
+@media (max-width: 359px) {
+  .exchange-card .ex-info .ex-info-img{display:none;}
+  .exchange-card .ex-info .media-body .line{margin-left:0;}
+  .exchange-card .ex-info .media-body .line:first-child{margin-left:0;}
+}
+
